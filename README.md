@@ -1,2 +1,3 @@
-# game_time
-2048 built in javascript
+http://chasevanhekken.github.io/game_time/
+
+2048 game clone built in javascript
